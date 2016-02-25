@@ -2,7 +2,7 @@
   "name": "ng-japan",
   "private": true,
   "dependencies": {
-    "Font-Awesome": "~4.2.0",
+    "Font-Awesome": "~4.5.0",
     "material-design-lite": "~1.0.6"
   }
 }
